@@ -1,5 +1,7 @@
 package br.com.engsenai.calculadora_de_formas_geometricas.model;
 
+import java.util.Scanner;
+
 public class Trapezio {
 	
 	private double baseMaior;
